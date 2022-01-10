@@ -42,7 +42,6 @@ html{
     margin-left: 20px;
     padding-top: 5px;
     padding-bottom: 10px;
-    
 }
 
 .class_menu:hover{
@@ -116,11 +115,11 @@ html{
 
 /* backgroud */
 #backgroud{
-width: 100%;
-height: 750px;
-background-image: url(./img/backgrand.jpg);
-background-size: cover;
-background-position: center;
+    width: 100%;
+    height: 750px;
+    background-image: url(./img/backgrand.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 #logo{
@@ -210,7 +209,6 @@ background-position: center;
 #accounting{
     margin-top: 30px;
     color: #9198a1;
-
     font-size: 28px;
     width: 85%;
 }
